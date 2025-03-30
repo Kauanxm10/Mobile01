@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Trabalho01",
+    "slug": "Trabalho01",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/j.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/j.jpg",   
+      "resizeMode": "cover",      
+      "backgroundColor": "#ffffff"  
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/j.jpg",  
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
